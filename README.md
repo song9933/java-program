@@ -14,7 +14,7 @@
 - google map API, KAKAO login API,  Naver login API
 
 ## ERD
-![]()
+![](images/erd.png)
 
 
 ## 나의 역할
@@ -25,7 +25,7 @@
 카테고리, 지역, 가격대, 메뉴 등 기본 정보 입력을 통한 회원가입 기능
 
 ## 회원가입 (일반회원)
-![]()
+![](images/naver_login.gif)
 네이버, 카카오 로그인 API를 이용하여 회원가입 및 로그인기능을 구현함
 
 ## 위도, 경도 등록 기능
@@ -34,5 +34,5 @@
 
 
 ## 최근 본 맛집 기능
-![]()
+![](images/recent_store.gif)
 sessionstorage를 이용하여 조회하였던 값들을 가져오도록 설정하였다.
